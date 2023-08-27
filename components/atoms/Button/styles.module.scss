@@ -1,0 +1,20 @@
+.button {
+  padding: 14px 0;
+  width: 320px;
+  font-size: var(--FONT_SIZE_24);
+  border-radius: 8px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.buttonYellow {
+  border: none;
+  background-color: var(--COLOR_YELLOW);
+  margin-bottom: 16px;
+}
+
+.buttonWhite {
+  background-color: var(--COLOR_WHITE);
+  border: 1px solid var(--COLOR_LIGHT_BLUE);
+  margin-bottom: 32px;
+}
